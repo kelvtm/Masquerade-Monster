@@ -1,0 +1,9 @@
+@import url("https://fonts.googleapis.com/css2?family=Bigelow+Rules&family=Karla:ital,wght@0,200..800;1,200..800&family=Koh+Santepheap:wght@400;700;900&display=swap");
+.App {
+  text-align: center;
+}
+h1 {
+  font-family: "Bigelow Rules", serif;
+  font-size: 72px;
+  color: #0cc;
+}
