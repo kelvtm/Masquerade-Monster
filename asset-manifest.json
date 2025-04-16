@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Masquerade-Monster/static/css/main.3546eb2c.css",
+    "main.js": "/Masquerade-Monster/static/js/main.04c0d114.js",
+    "static/js/453.ed3810f9.chunk.js": "/Masquerade-Monster/static/js/453.ed3810f9.chunk.js",
+    "static/media/logo.svg": "/Masquerade-Monster/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/Masquerade-Monster/index.html",
+    "main.3546eb2c.css.map": "/Masquerade-Monster/static/css/main.3546eb2c.css.map",
+    "main.04c0d114.js.map": "/Masquerade-Monster/static/js/main.04c0d114.js.map",
+    "453.ed3810f9.chunk.js.map": "/Masquerade-Monster/static/js/453.ed3810f9.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.3546eb2c.css",
+    "static/js/main.04c0d114.js"
+  ]
+}
